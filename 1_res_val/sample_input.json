@@ -1,0 +1,133 @@
+{
+  "name": "cu",
+  "emails": [
+    "aggarwaldhruv419@gmail.com",
+    "nope@u.com"
+  ],
+  "phone_numbers": [
+    "+91 8864836870",
+    "123456789"
+  ],
+  "linkedin": "https://www.linkedin.com/in/dhruv-aggarwal-5a0121274/",
+  "github": "https://github.com/dhruvaggarwal419",
+  "leetcode": "https://leetcode.com/u/dhruvaggarwal01/",
+  "codeforces": null,
+  "codechef": null,
+  "skills": "Adaptability, Bootstrap, C, C++, Communication, Computer Networks, CSS3, Data Structures and Algorithms, Database Management Systems, Express.js, HTML5, Java, JavaScript, MongoDB, MySQL, Node.js, Object Oriented Programming (OOP), Operating Systems, PHP, Problem Solving, REST APIs, Software Engineering, Teamwork",
+  "education": {
+    "phd": null,
+    "pg": null,
+    "ug": {
+      "degree": "B.Tech in Computer Science & Engineering",
+      "institution": "Graphic Era University, Dehradun",
+      "duration": "Sep, 2026 - June, 2022",
+      "grade": "9.17/10 CGPA"
+    },
+    "class12": {
+      "degree": "12th",
+      "institution": "Nirmal Deepmala School (NDS)",
+      "duration": "2022",
+      "grade": "110.20%"
+    },
+    "class10": {
+      "degree": "10th",
+      "institution": "Nirmal Deepmala School (NDS)",
+      "duration": "2022",
+      "grade": "89.80%"
+    }
+  },
+  "experience": [
+    {
+      "role": "Software Engineering Intern",
+      "company": "IIT Roorkee",
+      "start": "June 2024",
+      "end": "August 2024",
+      "points": {
+        "a": "Contributed to research on Generative AI for data analysis.",
+        "b": "Collaborated with senior researchers and published findings."
+      }
+    },
+    {
+      "role": "Bad Experience Entry",
+      "company": "Some Corp",
+      "start": "December 2024",
+      "end": "January 2024",
+      "points": {
+        "a": "End date is before start date — should be flagged invalid."
+      }
+    }
+  ],
+  "projects": [
+    {
+      "name": "Operating System Simulator",
+      "duration": null,
+      "github": "https://github.com/dhruvaggarwal419/An-Operating-System-Simulator",
+      "points": {
+        "a": "Engineered a comprehensive OS simulator covering process scheduling, memory management, file management, deadlock handling, disk scheduling and an OS chatbot, implementing all major algorithms.",
+        "b": "Boosted simulated resource utilization by 20% and improved system throughput by 25%.",
+        "c": "Adopted by 10+ junior students for coursework and research, demonstrating practical usability and educational impact.",
+        "d": "Tech stack: C++, Python, Pybind11, Streamlit, Generative AI"
+      }
+    },
+    {
+      "name": "Real-Time Banking Management Software",
+      "duration": null,
+      "github": "https://github.com/dhruvaggarwal419/Real-Time-Banking-Management-Software",
+      "points": {
+        "a": "Developed a full-stack banking web application supporting 5+ core features including user signup, login, deposit, withdrawal, and balance inquiry.",
+        "b": "Designed and integrated a relational database to manage 100% persistent storage of user accounts and transaction records.",
+        "c": "Implemented real-time transaction handling and validations, reducing invalid operations and improving system reliability by 30%.",
+        "d": "Tech stack: PHP, MySQL, HTML, CSS, Javascript"
+      }
+    },
+    {
+      "name": "High-Precision Big Integer Arithmetic Library",
+      "duration": null,
+      "github": "https://github.com/dhruvaggarwal419/Optimized-Big-Integer-Computational-Library",
+      "points": {
+        "a": "Developed a library for performing arithmetic operations on large integers (up to 10^100), improving computation speed by 40% through optimized algorithms and efficient memory usage.",
+        "b": "Implemented precise handling of extremely large numerical values with fast execution and reduced time complexity.",
+        "c": "Adopted by 50+ students for coursework and competitive programming projects.",
+        "d": "Tech stack: C++, OOP"
+      }
+    },
+    {
+      "name": "E-commerce Platform",
+      "duration": "Jan 2023 - Mar 2023",
+      "github": "https://github.com/username/ecommerce-platform",
+      "points": {
+        "a": "Built a full-stack e-commerce application using MERN stack"
+      }
+    },
+    {
+      "name": "Thin Description Project",
+      "duration": "Feb 2024 - Mar 2024",
+      "github": null,
+      "points": {
+        "a": "Some brief description."
+      }
+    },
+    {
+      "name": "Bad Date Project",
+      "duration": "Oct 2024 - Jan 2024",
+      "github": null,
+      "points": {
+        "a": "End date precedes start date — temporal logic failure.",
+        "b": "This should be classified as invalid."
+      }
+    }
+  ],
+  "achievements": {
+    "points": {
+      "a": "Secured All India Rank 2 (AIR-2) in the IIT Roorkee-GIAN International Online Course Competition 2024, out of 40+ global participants, by solving challenges in Data Science with Generative AI at IIT Roorkee, Uttarakhand, and IIIT Bhubaneswar.",
+      "b": "Publications: Authored 2 peer-reviewed research papers and contributed to 1 book chapter.",
+      "c": "Professional Honors: Internship tenure extended for 1 month due to outstanding research contributions with senior researchers at IIT Roorkee."
+    }
+  },
+  "responsibilities": {
+    "points": {
+      "a": "Technical Lead, Google Developer Student Club - Led a team of 20 developers and organized 15+ technical workshops (Aug 2022 - Present)",
+      "b": "Student Coordinator, Annual Fest - Coordinated event with 2000+ participants and managed logistics (Jan 2023 - Apr 2023)"
+    }
+  }
+}

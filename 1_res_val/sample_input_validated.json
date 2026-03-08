@@ -1,0 +1,408 @@
+{
+  "summary": {
+    "total_checks": 60,
+    "validated_count": 45,
+    "invalid_count": 7,
+    "grey_area_count": 8
+  },
+  "validated_sections": {
+    "name": {
+      "path": "name",
+      "data": "Dhruv Aggarwal",
+      "note": ""
+    },
+    "emails[0]": {
+      "path": "emails[0]",
+      "data": "aggarwaldhruv419@gmail.com",
+      "note": ""
+    },
+    "phone_numbers[0]": {
+      "path": "phone_numbers[0]",
+      "data": "+91 8864836870",
+      "note": "Stripped India country code (+91); 10-digit number confirmed."
+    },
+    "urls.github": {
+      "path": "urls.github",
+      "data": "https://github.com/dhruvaggarwal419",
+      "note": "HTTP 200 — reachable."
+    },
+    "urls.codeforces": {
+      "path": "urls.codeforces",
+      "data": null,
+      "note": "Codeforces not provided — optional field."
+    },
+    "urls.codechef": {
+      "path": "urls.codechef",
+      "data": null,
+      "note": "CodeChef not provided — optional field."
+    },
+    "urls.portfolio": {
+      "path": "urls.portfolio",
+      "data": null,
+      "note": "Portfolio not provided — optional field."
+    },
+    "education.phd": {
+      "path": "education.phd",
+      "data": null,
+      "note": "Not provided — acceptable."
+    },
+    "education.pg": {
+      "path": "education.pg",
+      "data": null,
+      "note": "Not provided — acceptable."
+    },
+    "education.ug.degree": {
+      "path": "education.ug.degree",
+      "data": "B.Tech in Computer Science & Engineering",
+      "note": ""
+    },
+    "education.ug.institution": {
+      "path": "education.ug.institution",
+      "data": "Graphic Era University, Dehradun",
+      "note": ""
+    },
+    "education.ug.duration": {
+      "path": "education.ug.duration",
+      "data": {
+        "raw": "Sep, 2022 - June, 2026",
+        "start": "2022-09-01",
+        "end": "2026-06-01"
+      },
+      "note": ""
+    },
+    "education.ug.grade": {
+      "path": "education.ug.grade",
+      "data": "9.17/10 CGPA",
+      "note": ""
+    },
+    "education.class12.degree": {
+      "path": "education.class12.degree",
+      "data": "12th",
+      "note": ""
+    },
+    "education.class12.institution": {
+      "path": "education.class12.institution",
+      "data": "Nirmal Deepmala School (NDS)",
+      "note": ""
+    },
+    "education.class12.duration": {
+      "path": "education.class12.duration",
+      "data": {
+        "raw": "2022",
+        "start": null,
+        "end": "2022"
+      },
+      "note": ""
+    },
+    "education.class12.grade": {
+      "path": "education.class12.grade",
+      "data": "90.20%",
+      "note": ""
+    },
+    "education.class10.degree": {
+      "path": "education.class10.degree",
+      "data": "10th",
+      "note": ""
+    },
+    "education.class10.institution": {
+      "path": "education.class10.institution",
+      "data": "Nirmal Deepmala School (NDS)",
+      "note": ""
+    },
+    "education.class10.duration": {
+      "path": "education.class10.duration",
+      "data": {
+        "raw": "2020",
+        "start": null,
+        "end": "2020"
+      },
+      "note": ""
+    },
+    "education.class10.grade": {
+      "path": "education.class10.grade",
+      "data": "89.80%",
+      "note": ""
+    },
+    "experience[0].role": {
+      "path": "experience[0].role",
+      "data": "Software Engineering Intern",
+      "note": ""
+    },
+    "experience[0].company": {
+      "path": "experience[0].company",
+      "data": "IIT Roorkee",
+      "note": ""
+    },
+    "experience[0].duration": {
+      "path": "experience[0].duration",
+      "data": {
+        "raw": "June 2024 - August 2024",
+        "start": "2024-06-01",
+        "end": "2024-08-01"
+      },
+      "note": ""
+    },
+    "experience[0].description": {
+      "path": "experience[0].description",
+      "data": {
+        "a": "Contributed to research on Generative AI for data analysis.",
+        "b": "Collaborated with senior researchers and published findings."
+      },
+      "note": ""
+    },
+    "experience[1].role": {
+      "path": "experience[1].role",
+      "data": "Bad Experience Entry",
+      "note": ""
+    },
+    "experience[1].company": {
+      "path": "experience[1].company",
+      "data": "Some Corp",
+      "note": ""
+    },
+    "projects[0].name": {
+      "path": "projects[0].name",
+      "data": "Operating System Simulator",
+      "note": ""
+    },
+    "projects[0].github": {
+      "path": "projects[0].github",
+      "data": "https://github.com/dhruvaggarwal419/An-Operating-System-Simulator",
+      "note": "HTTP 200 — reachable."
+    },
+    "projects[0].description": {
+      "path": "projects[0].description",
+      "data": {
+        "a": "Engineered a comprehensive OS simulator covering process scheduling, memory management, file management, deadlock handling, disk scheduling and an OS chatbot, implementing all major algorithms.",
+        "b": "Boosted simulated resource utilization by 20% and improved system throughput by 25%.",
+        "c": "Adopted by 10+ junior students for coursework and research, demonstrating practical usability and educational impact.",
+        "d": "Tech stack: C++, Python, Pybind11, Streamlit, Generative AI"
+      },
+      "note": ""
+    },
+    "projects[1].name": {
+      "path": "projects[1].name",
+      "data": "Real-Time Banking Management Software",
+      "note": ""
+    },
+    "projects[1].github": {
+      "path": "projects[1].github",
+      "data": "https://github.com/dhruvaggarwal419/Real-Time-Banking-Management-Software",
+      "note": "HTTP 200 — reachable."
+    },
+    "projects[1].description": {
+      "path": "projects[1].description",
+      "data": {
+        "a": "Developed a full-stack banking web application supporting 5+ core features including user signup, login, deposit, withdrawal, and balance inquiry.",
+        "b": "Designed and integrated a relational database to manage 100% persistent storage of user accounts and transaction records.",
+        "c": "Implemented real-time transaction handling and validations, reducing invalid operations and improving system reliability by 30%.",
+        "d": "Tech stack: PHP, MySQL, HTML, CSS, Javascript"
+      },
+      "note": ""
+    },
+    "projects[2].name": {
+      "path": "projects[2].name",
+      "data": "High-Precision Big Integer Arithmetic Library",
+      "note": ""
+    },
+    "projects[2].github": {
+      "path": "projects[2].github",
+      "data": "https://github.com/dhruvaggarwal419/Optimized-Big-Integer-Computational-Library",
+      "note": "HTTP 200 — reachable."
+    },
+    "projects[2].description": {
+      "path": "projects[2].description",
+      "data": {
+        "a": "Developed a library for performing arithmetic operations on large integers (up to 10^100), improving computation speed by 40% through optimized algorithms and efficient memory usage.",
+        "b": "Implemented precise handling of extremely large numerical values with fast execution and reduced time complexity.",
+        "c": "Adopted by 50+ students for coursework and competitive programming projects.",
+        "d": "Tech stack: C++, OOP"
+      },
+      "note": ""
+    },
+    "projects[3].name": {
+      "path": "projects[3].name",
+      "data": "E-commerce Platform",
+      "note": ""
+    },
+    "projects[3].duration": {
+      "path": "projects[3].duration",
+      "data": {
+        "raw": "Jan 2023 - Mar 2023",
+        "start": "2023-01-01",
+        "end": "2023-03-01"
+      },
+      "note": ""
+    },
+    "projects[4].name": {
+      "path": "projects[4].name",
+      "data": "Thin Description Project",
+      "note": ""
+    },
+    "projects[4].duration": {
+      "path": "projects[4].duration",
+      "data": {
+        "raw": "Feb 2024 - Mar 2024",
+        "start": "2024-02-01",
+        "end": "2024-03-01"
+      },
+      "note": ""
+    },
+    "projects[5].name": {
+      "path": "projects[5].name",
+      "data": "Bad Date Project",
+      "note": ""
+    },
+    "projects[5].description": {
+      "path": "projects[5].description",
+      "data": {
+        "a": "End date precedes start date — temporal logic failure.",
+        "b": "This should be classified as invalid."
+      },
+      "note": ""
+    },
+    "skills": {
+      "path": "skills",
+      "data": [
+        "Adaptability",
+        "Bootstrap",
+        "C",
+        "C++",
+        "Communication",
+        "Computer Networks",
+        "CSS3",
+        "Data Structures and Algorithms",
+        "Database Management Systems",
+        "Express.js",
+        "HTML5",
+        "Java",
+        "JavaScript",
+        "MongoDB",
+        "MySQL",
+        "Node.js",
+        "Object Oriented Programming (OOP)",
+        "Operating Systems",
+        "PHP",
+        "Problem Solving",
+        "REST APIs",
+        "Software Engineering",
+        "Teamwork"
+      ],
+      "note": ""
+    },
+    "achievements": {
+      "path": "achievements",
+      "data": {
+        "points": {
+          "a": "Secured All India Rank 2 (AIR-2) in the IIT Roorkee-GIAN International Online Course Competition 2024, out of 40+ global participants, by solving challenges in Data Science with Generative AI at IIT Roorkee, Uttarakhand, and IIIT Bhubaneswar.",
+          "b": "Publications: Authored 2 peer-reviewed research papers and contributed to 1 book chapter.",
+          "c": "Professional Honors: Internship tenure extended for 1 month due to outstanding research contributions with senior researchers at IIT Roorkee."
+        }
+      },
+      "note": ""
+    },
+    "responsibilities": {
+      "path": "responsibilities",
+      "data": {
+        "points": {
+          "a": "Technical Lead, Google Developer Student Club - Led a team of 20 developers and organized 15+ technical workshops (Aug 2022 - Present)",
+          "b": "Student Coordinator, Annual Fest - Coordinated event with 2000+ participants and managed logistics (Jan 2023 - Apr 2023)"
+        }
+      },
+      "note": ""
+    }
+  },
+  "invalid_sections": {
+    "emails[1]": {
+      "path": "emails[1]",
+      "data": "bad-email@@broken",
+      "error": "Email 'bad-email@@broken' has invalid format."
+    },
+    "phone_numbers[1]": {
+      "path": "phone_numbers[1]",
+      "data": "12345",
+      "error": "Phone '12345' yields 5 digits after stripping — expected 10 (or 11 with +1 / 12 with +91). Only US (+1) and India (+91) country codes are currently supported."
+    },
+    "urls.linkedin": {
+      "path": "urls.linkedin",
+      "data": "https://www.linkedin.com/in/dhruv-aggarwal-5a0121274/",
+      "error": "LinkedIn 'https://www.linkedin.com/in/dhruv-aggarwal-5a0121274/' returned HTTP 999 — dead or broken link."
+    },
+    "urls.leetcode": {
+      "path": "urls.leetcode",
+      "data": "https://leetcode.com/u/dhruvaggarwal01/",
+      "error": "LeetCode 'https://leetcode.com/u/dhruvaggarwal01/' returned HTTP 403 — dead or broken link."
+    },
+    "experience[1].duration": {
+      "path": "experience[1].duration",
+      "data": {
+        "raw": "December 2024 - January 2024",
+        "start": "2024-12-01",
+        "end": "2024-01-01"
+      },
+      "error": "Experience[1] (Bad Experience Entry): End date 'January 2024' is before start date 'December 2024' — temporal logic violation."
+    },
+    "projects[3].github": {
+      "path": "projects[3].github",
+      "data": "https://github.com/username/ecommerce-platform",
+      "error": "Project[3] (E-commerce Platform) GitHub 'https://github.com/username/ecommerce-platform' returned HTTP 404 — dead or broken link."
+    },
+    "projects[5].duration": {
+      "path": "projects[5].duration",
+      "data": {
+        "raw": "Oct 2024 - Jan 2024",
+        "start": "2024-10-01",
+        "end": "2024-01-01"
+      },
+      "error": "Project[5] (Bad Date Project): End date 'Jan 2024' is before start date 'Oct 2024' — temporal logic violation."
+    }
+  },
+  "grey_area": {
+    "experience[1].description": {
+      "path": "experience[1].description",
+      "data": {
+        "a": "End date is before start date — should be flagged invalid."
+      },
+      "note": "Experience[1] (Bad Experience Entry): Only 1 description bullet, though detailed; consider splitting into multiple."
+    },
+    "projects[0].duration": {
+      "path": "projects[0].duration",
+      "data": null,
+      "note": "Project[0] (Operating System Simulator): No duration provided."
+    },
+    "projects[1].duration": {
+      "path": "projects[1].duration",
+      "data": null,
+      "note": "Project[1] (Real-Time Banking Management Software): No duration provided."
+    },
+    "projects[2].duration": {
+      "path": "projects[2].duration",
+      "data": null,
+      "note": "Project[2] (High-Precision Big Integer Arithmetic Library): No duration provided."
+    },
+    "projects[3].description": {
+      "path": "projects[3].description",
+      "data": {
+        "a": "Built a full-stack e-commerce application using MERN stack"
+      },
+      "note": "Project[3] (E-commerce Platform): Only 1 short bullet(s) provided; lacks detail and depth."
+    },
+    "projects[4].github": {
+      "path": "projects[4].github",
+      "data": null,
+      "note": "Project[4] (Thin Description Project): No GitHub link provided."
+    },
+    "projects[4].description": {
+      "path": "projects[4].description",
+      "data": {
+        "a": "Some brief description."
+      },
+      "note": "Project[4] (Thin Description Project): Only 1 short bullet(s) provided; lacks detail and depth."
+    },
+    "projects[5].github": {
+      "path": "projects[5].github",
+      "data": null,
+      "note": "Project[5] (Bad Date Project): No GitHub link provided."
+    }
+  }
+}
