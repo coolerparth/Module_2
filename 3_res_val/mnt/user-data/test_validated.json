@@ -1,0 +1,75 @@
+{
+  "summary": {
+    "total_checks": 12,
+    "validated_count": 6,
+    "invalid_count": 4,
+    "grey_area_count": 2,
+    "pass_rate": 50.0
+  },
+  "validated_sections": {
+    "urls.linkedin": {
+      "path": "urls.linkedin",
+      "data": null,
+      "note": "LinkedIn not provided — optional field."
+    },
+    "urls.github": {
+      "path": "urls.github",
+      "data": null,
+      "note": "GitHub not provided — optional field."
+    },
+    "urls.leetcode": {
+      "path": "urls.leetcode",
+      "data": null,
+      "note": "LeetCode not provided — optional field."
+    },
+    "urls.codeforces": {
+      "path": "urls.codeforces",
+      "data": null,
+      "note": "Codeforces not provided — optional field."
+    },
+    "urls.codechef": {
+      "path": "urls.codechef",
+      "data": null,
+      "note": "CodeChef not provided — optional field."
+    },
+    "urls.portfolio": {
+      "path": "urls.portfolio",
+      "data": null,
+      "note": "Portfolio not provided — optional field."
+    }
+  },
+  "invalid_sections": {
+    "name": {
+      "path": "name",
+      "data": null,
+      "error": "Name is missing or empty."
+    },
+    "emails[0]": {
+      "path": "emails[0]",
+      "data": null,
+      "error": "No email addresses provided."
+    },
+    "phone_numbers[0]": {
+      "path": "phone_numbers[0]",
+      "data": null,
+      "error": "No phone numbers provided."
+    },
+    "skills": {
+      "path": "skills",
+      "data": null,
+      "error": "Skills section is missing or empty."
+    }
+  },
+  "grey_area": {
+    "achievements": {
+      "path": "achievements",
+      "data": null,
+      "note": "Achievements section missing or has no 'points' dict."
+    },
+    "responsibilities": {
+      "path": "responsibilities",
+      "data": null,
+      "note": "Responsibilities section missing or has no 'points' dict."
+    }
+  }
+}
