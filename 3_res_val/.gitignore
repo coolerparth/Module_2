@@ -1,0 +1,28 @@
+# Environments
+venv/
+env/
+.env
+
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Built output
+dist/
+build/
+*.egg-info/
+
+# Local data (Ignored to prevent pushing massive test/private files)
+data/test_outputs/*
+data/test_cases/*
+!data/test_cases/.gitkeep
+!data/test_outputs/.gitkeep
+
+# OS Specific
+.DS_Store
